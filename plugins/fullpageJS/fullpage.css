@@ -81,6 +81,9 @@ html.fp-enabled,
     border-width: 38.5px 0 38.5px 34px;
     border-color: transparent transparent transparent #fff;
 }
+.fp-viewing-1thpage .fp-controlArrow{
+    display:none;
+}
 .fp-scrollable {
     overflow: hidden;
     position: relative;
@@ -95,6 +98,8 @@ html.fp-enabled,
     -webkit-transition: none !important;
     transition: none !important;
 }
+
+
 #fp-nav {
     position: fixed;
     z-index: 100;
@@ -102,6 +107,8 @@ html.fp-enabled,
     top: 50%;
     opacity: 1;
     -webkit-transform: translate3d(0,0,0);
+    transition-timing-function: ease-out;
+    transition: 0.25s;
 }
 #fp-nav.fp-right {
     right: 17px;
