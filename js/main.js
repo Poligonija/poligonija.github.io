@@ -7,6 +7,7 @@ $(document).ready(function() {
         navigationPosition: 'right',
         slidesNavigation: true,
         slidesNavPosition: 'top',
+        verticalCentered:true,
 
         onLeave: function (origin, destination, direction) {
             if(origin.index == 0 && direction == 'down'){

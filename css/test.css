@@ -69,6 +69,7 @@ h2 + p {
 	font-size:3em;
 }
 
+
 .inner {
 	position: relative;
 	height:100%;
@@ -294,10 +295,18 @@ h2 + p {
 
 .ReadMore {align-content: center;
 	z-index: 1;
-	opacity: 0.6;
 	font-family: Montserrat;
 	font-size: 22px;}
 
+.ReadMore a{
+	color: black;
+	opacity: 0.6;
+}
+.ReadMore a:hover{
+	color: black;
+	opacity: 1;
+	text-decoration: none;
+}
 #logo {height:45px;}
 
 blockquote {
