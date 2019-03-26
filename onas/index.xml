@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Onas on Poligonija</title>
+    <link>https://poligonija.github.io/onas/</link>
+    <description>Recent content in Onas on Poligonija</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sl-SI</language>
+    <lastBuildDate>Tue, 26 Mar 2019 21:29:39 +0100</lastBuildDate>
+    <atom:link href="https://poligonija.github.io/onas/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>O nas</title>
+      <link>https://poligonija.github.io/o-nas</link>
+      <pubDate>Tue, 26 Mar 2019 21:29:39 +0100</pubDate>
+      
+      <guid>https://poligonija.github.io/o-nas</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

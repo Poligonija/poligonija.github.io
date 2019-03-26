@@ -68,16 +68,6 @@ p {
 h2 + p {
 	font-size:3em;
 }
-.vertical-center {
-	text-align:center;
-	width:100%;
-	position: absolute;
-	top: 47%;
-	transform: translateY(-47%);
-}
-.vertical-center p {
-	margin-top:23px;
-}
 
 .inner {
 	position: relative;
