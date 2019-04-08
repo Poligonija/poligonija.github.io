@@ -60,15 +60,15 @@
     }
 
     #logo{
-        height:30px;
-        margin-top:10px;
+        height:35px !important;
+        margin-top:10px !important;
     }
 
     #logos{
         padding-left:0;
         padding-right:0;
         position: absolute;
-        top:10px;
+        top:10px !important;
     }
     .sponsors{
         max-height: 30px;
