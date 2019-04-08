@@ -1,3 +1,111 @@
+/* mobile edits  */
+@media screen and (max-width: 760px){
+	.mainTitle{
+		font-size: 4rem !important;
+	}
+    #fp-nav.fp-right{
+        right: 2px !important;
+    }
+    .Left-title{
+		margin: 20px 0px 30px 0px;
+		text-align: left;
+	    width: 100%;
+	    font-size: 58px !important;
+    }
+
+	.mobile-container{
+		width: 90vw !important;
+	}
+    .text{
+        text-align: justify !important;
+    }
+
+    p {
+        font-size: 17px;
+    }
+
+    .singleTitle{
+        margin-bottom: 1rem;
+        margin-top: 2rem;
+    }
+    .singleSubTitle{
+        margin-bottom:0;
+    }
+
+	.opis{
+        text-align: justify;
+		width: 100%;
+		margin-left: 0 !important;
+		margin-bottom: 90px;
+	}
+	.opis p {font-size: 17px !important;}
+
+    blockquote p{
+        font-size: 1.5em !important;
+    }
+    blockquote{
+        padding: 1rem 15px !important;
+    }
+    blockquote:before{
+        font-size: 40px !important;
+    }
+    blockquote:after{
+        font-size: 40px !important;
+        right: 20px;
+        bottom: -20px !important;
+    }
+
+    .logo{
+        max-width: 90px;
+    }
+
+    #logo{
+        height:30px;
+        margin-top:10px;
+    }
+
+    #logos{
+        padding-left:0;
+        padding-right:0;
+        position: absolute;
+        top:10px;
+    }
+    .sponsors{
+        max-height: 30px;
+        float: right;
+        width: auto;
+    }
+    .naslov{
+        margin-left:0 !important;
+    }
+
+	#arrowDown{
+	bottom: 80px !important;
+}
+    #arrowDown img {height: 20px !important;}
+
+	.Horizont {background-color: white;
+	margin-bottom: 35px;}
+
+    .title{
+        font-size: 40px !important;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
    License: none (public domain)
@@ -50,7 +158,6 @@ table {
 /****** Main ********/
 
 body {
-	color:white;
 	font-size:62.5%;
 	font-family: 'Gentium Book Basic', serif;
 }
@@ -215,19 +322,18 @@ h2 + p {
 .block {margin-top:80px;}
 
 .Left-title {color:white;
-	margin-right: 10px;
+	margin-right: 0px;
 	font-size: 5rem;
 	word-break: break-word;
 	-webkit-hyphens: auto;
 	-moz-hyphens: auto;
 	-ms-hyphens: auto;
-	hyphens: auto;}
-
-.opis {color:white;
-	margin-left:120px;}
+	hyphens: auto;
+}
 
 .opis p{
-	font-size: 30px !important;
+	color:white;
+	font-size: 25px;
 }
 
 #avtorji {padding-left: 115px;
@@ -246,13 +352,15 @@ h2 + p {
 #arrow {height: 100px;}
 
 #arrowDown{
-	position: fixed;
-	z-index: 99;
-	cursor: pointer;
-	left:50%;
-	margin-left: -50px;
-	bottom: 20px;
+    position: fixed;
+    z-index: 99;
+    cursor: pointer;
+    left:50%;
+    margin-left: 0 !important;
+    transform: translateX(-50%);
+	bottom: 40px;
 }
+#arrowDown img {height: 25px;}
 
 /* ////////////// 2nd page section ///////*/
 .title {
@@ -262,12 +370,12 @@ h2 + p {
 	text-align: left;
 	font-family:Lora sans-serif;
 	font-style:normal;
-	font-weight:150;
+	font-weight:200;
 	color: black;}
 
 .names {
 	font-size: 17px;
-	font-family:"Slabo 27px", Serif;
+	font-family:"Slabo 27px", sans-serif;
 	font-style:normal;
 	font-weight:400;
 	text-align: left;
@@ -295,7 +403,7 @@ h2 + p {
 
 .ReadMore {align-content: center;
 	z-index: 1;
-	font-family: Montserrat;
+	font-family: Montserrat, sans-serif;
 	font-size: 22px;}
 
 .ReadMore a{
@@ -316,7 +424,7 @@ blockquote {
 	padding: 0.35em 40px;
 	line-height: 1.45;
 	position: relative;
-	color: #fff;
+	color: #000;
 }
 
 blockquote:before {
@@ -369,8 +477,7 @@ blockquote:after{
 
 
 .button{
-	background-color: transparent !important;
-	background-repeat:no-repeat !important;
+	background: transparent no-repeat !important;
 	border: none;
 	cursor:pointer;
 	overflow: hidden;
@@ -399,33 +506,18 @@ blockquote cite:before {
 	content: "\2014 \2009";
 }
 
-@media screen and (max-width: 760px){
-	blockquote{
-		font-size:1.4em;
-	}
-	blockquote:before{
-		font-size: 60px;
-	}
-	blockquote:after{
-		font-size: 60px;
-	}
-
-	.logo{
-		max-width: 90px;
-	}
-
-	#logos{
-		position: absolute;
-		top:17px;
-		right:-30px;
-	}
-	.sponsors{
-		max-height: 30px;
-		float: right;
-		width: auto;
-	}
-	.naslov{
-		margin-left:0rem;
-	}
+.singleTitle{
+    margin-bottom: 2.5rem;
+    margin-top: 2.5rem;
+}
+.singleSubTitle{
+    margin-bottom: 1.5rem;
+    margin-top: 1.5rem;
+}
+.singleMargin{
+    margin-bottom: 1rem;
 }
 
+.mainTitle{
+	font-size: 6rem;
+}
