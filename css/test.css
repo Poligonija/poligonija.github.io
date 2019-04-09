@@ -254,6 +254,16 @@ h2 + p {
 }
 #arrowDown img {height: 25px;}
 
+.short-content{
+	margin-top: 30px;
+	margin-bottom: 25px;
+}
+
+.authors{
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
 /* ////////////// 2nd page section ///////*/
 .title {
 	font-size: 50px;
@@ -506,6 +516,15 @@ blockquote cite:before {
 
 	.title{
 		font-size: 40px;
+	}
+
+	.authors{
+		margin-top: 10px;
+	}
+
+	.short-content{
+		margin-top: 10px;
+		margin-bottom: 10px;
 	}
 
 }
