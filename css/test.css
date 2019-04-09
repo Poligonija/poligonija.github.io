@@ -427,7 +427,7 @@ blockquote cite:before {
 		margin: 20px 0px 30px 0px;
 		text-align: left;
 		width: 100%;
-		font-size: 50px;
+		font-size: 40px;
 	}
 
 	.mobile-container{
@@ -453,7 +453,7 @@ blockquote cite:before {
 		text-align: justify;
 		width: 100%;
 		margin-left: 0;
-		margin-bottom: 90px;
+		margin-bottom: 80px;
 	}
 	.opis p {font-size: 17px;}
 
@@ -497,7 +497,7 @@ blockquote cite:before {
 	}
 
 	#arrowDown{
-		bottom: 50px;
+		bottom: 30px;
 	}
 	#arrowDown img {height: 20px;}
 
