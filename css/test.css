@@ -445,6 +445,7 @@ blockquote cite:before {
 	}
 	.text{
 		text-align: justify;
+		font-size: 16px;
 	}
 
 	p {
@@ -515,7 +516,7 @@ blockquote cite:before {
 		margin-bottom: 35px;}
 
 	.title{
-		font-size: 40px;
+		font-size: 30px;
 	}
 
 	.authors{
