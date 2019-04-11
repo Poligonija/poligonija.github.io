@@ -445,6 +445,7 @@ blockquote cite:before {
 	}
 	.text{
 		text-align: justify;
+		font-size: 16px;
 	}
 
 	p {
@@ -515,7 +516,7 @@ blockquote cite:before {
 		margin-bottom: 35px;}
 
 	.title{
-		font-size: 40px;
+		font-size: 30px;
 	}
 
 	.authors{
@@ -526,5 +527,15 @@ blockquote cite:before {
 		margin-top: 10px;
 		margin-bottom: 10px;
 	}
+
+    #about{
+        font-size: 17px;
+    }
+    #social{
+        font-size: 17px;
+    }
+    #mainLogo{
+        font-size: 20px;
+    }
 
 }
