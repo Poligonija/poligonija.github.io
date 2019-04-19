@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Poligonija</title>
-    <link>https://poligonija.github.io/categories/</link>
+    <link>https://poligonija.org/categories/</link>
     <description>Recent content in Categories on Poligonija</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sl-SI</language>
     
-	<atom:link href="https://poligonija.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://poligonija.org/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

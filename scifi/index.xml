@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Scifi on Poligonija</title>
-    <link>https://poligonija.github.io/scifi/</link>
+    <link>https://poligonija.org/scifi/</link>
     <description>Recent content in Scifi on Poligonija</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sl-SI</language>
     <lastBuildDate>Mon, 25 Mar 2019 15:05:23 +0100</lastBuildDate>
     
-	<atom:link href="https://poligonija.github.io/scifi/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://poligonija.org/scifi/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>porocilo</title>
-      <link>https://poligonija.github.io/scifi/porocilo/</link>
+      <link>https://poligonija.org/scifi/porocilo/</link>
       <pubDate>Mon, 15 Apr 2019 18:38:41 +0200</pubDate>
       
-      <guid>https://poligonija.github.io/scifi/porocilo/</guid>
+      <guid>https://poligonija.org/scifi/porocilo/</guid>
       <description>V petek 29. 3. je Trubarjeva hiša literature gostila dogodek projekta Poligonija, ki deluje pod okriljem Škratove Čitalnice KUD Anarhiva. Skupina mladih študentov je skozi odlomke najrazličnejših znanstvenofantastičnih del razpravljala, kaj znanstvena fantastika sploh je, in kam vodi razvoj te literarne podzvrsti.  Izraz »znanstvena fantastika« se je začel uporabljati šele v dvajsetem stoletju, a elementi, ki jih ta žanr vsebuje, segajo že med prve literarne zapise. Metka Kordigel je v osemdesetih letih prejšnjega stoletja znanstveno fantastiko opisala kot opazovanje sedanjosti, določanje pravil, po katerih sedanjost deluje in prenašanje teh pravil v prihodnost.</description>
     </item>
     
     <item>
       <title>uvod</title>
-      <link>https://poligonija.github.io/scifi/uvod/</link>
+      <link>https://poligonija.org/scifi/uvod/</link>
       <pubDate>Mon, 25 Mar 2019 15:08:14 +0100</pubDate>
       
-      <guid>https://poligonija.github.io/scifi/uvod/</guid>
+      <guid>https://poligonija.org/scifi/uvod/</guid>
       <description>Zdi se, da je danes nemogoče misliti prihodnost. Srečujemo se s trendom vračanja v preteklost. V modi je vračanje elementov preteklih zgodovinskih obdobij. Videospoti poustvarjajo zrnati videz, glasbeniki v njih pa posnemajo modo različnih desetletij prejšnjega stoletja. V glasbi je vedno bolj popularno samplanje starejše, prezrte glasbe, v ZF filmih pa vidimo sicer na vedno bolj dovršene načine podobno, če ne identično, izpovedano napoved prihodnosti. Zdi se, da je prihodnost ukinjena.</description>
     </item>
     
