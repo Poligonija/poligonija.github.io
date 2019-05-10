@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SCI-FI in konec prihodnosti on Poligonija</title>
+    <title>Poligonija</title>
     <link>https://poligonija.org/</link>
-    <description>Recent content in SCI-FI in konec prihodnosti on Poligonija</description>
+    <description>Recent content on Poligonija</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sl-SI</language>
     <lastBuildDate>Wed, 16 Jan 2019 20:55:58 +0100</lastBuildDate>
@@ -13,11 +13,29 @@
     
     <item>
       <title>porocilo</title>
+      <link>https://poligonija.org/kozmonavtika/porocilo/</link>
+      <pubDate>Wed, 01 May 2019 14:33:46 +0200</pubDate>
+      
+      <guid>https://poligonija.org/kozmonavtika/porocilo/</guid>
+      <description>Ob dnevu kozmonavtike je bil v Pritličju organiziran pogovor z gosti. Natalija Majsova in Anja Banko sta govorili o znanstvenofantastični kinematografiji, prva z izrazito kulturološkim pogledom, druga pa s pogledom filmske kritičarke. Dragan Živadinov in Blaž Šef sta kot gledališka kolega prevzela umetniško stališče, Kristina Pranjić je kot komparativistka z doktorsko nalogo iz kozmizma pokrila osnovne pojme, Miha Javornik pa se je kot profesor ruske literature oprl na avantgardo in mitologizacijo.</description>
+    </item>
+    
+    <item>
+      <title>porocilo</title>
       <link>https://poligonija.org/scifi/porocilo/</link>
       <pubDate>Mon, 15 Apr 2019 18:38:41 +0200</pubDate>
       
       <guid>https://poligonija.org/scifi/porocilo/</guid>
       <description>V petek 29. 3. je Trubarjeva hiša literature gostila dogodek projekta Poligonija, ki deluje pod okriljem Škratove Čitalnice KUD Anarhiva. Skupina mladih študentov je skozi odlomke najrazličnejših znanstvenofantastičnih del razpravljala, kaj znanstvena fantastika sploh je, in kam vodi razvoj te literarne podzvrsti.  Izraz »znanstvena fantastika« se je začel uporabljati šele v dvajsetem stoletju, a elementi, ki jih ta žanr vsebuje, segajo že med prve literarne zapise. Metka Kordigel je v osemdesetih letih prejšnjega stoletja znanstveno fantastiko opisala kot opazovanje sedanjosti, določanje pravil, po katerih sedanjost deluje in prenašanje teh pravil v prihodnost.</description>
+    </item>
+    
+    <item>
+      <title>sultana</title>
+      <link>https://poligonija.org/scifi/sultana/</link>
+      <pubDate>Mon, 25 Mar 2019 15:08:14 +0100</pubDate>
+      
+      <guid>https://poligonija.org/scifi/sultana/</guid>
+      <description>Nekega večera sem posedala v naslanjaču v svoji spalnici in lenobno razmišljala o pogojih, v katerih živijo indijske ženske. Morda sem zadremala, morda ne, nisem prepričana. Pa vendar; če me spomin ne vara, sem bila povsem budna. Z mesečino obsijano nebo, na katerem se je bleščalo na tisoče zvezd, podobnih diamantom, sem videla povsem jasno. Kar naenkrat pa je pred mano stala ženska. Ne vem, kako je vstopila, a sem jo spoznala za prijateljico, sestro Saro.</description>
     </item>
     
     <item>

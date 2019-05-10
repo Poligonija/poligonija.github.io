@@ -101,6 +101,7 @@ html.fp-enabled,
 
 
 #fp-nav {
+    display: none;
     position: fixed;
     z-index: 100;
     margin-top: -32px;

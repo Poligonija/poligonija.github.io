@@ -215,7 +215,7 @@ h2 + p {
 
 .Left-title {color:white;
 	margin-right: 0px;
-	font-size: 5rem;
+	font-size: 4.5rem;
 	word-break: break-word;
 	-webkit-hyphens: auto;
 	-moz-hyphens: auto;
@@ -252,7 +252,35 @@ h2 + p {
     transform: translateX(-50%);
 	bottom: 40px;
 }
+
 #arrowDown img {height: 25px;}
+
+@media screen and (min-width: 760px) {
+	#arrowLeft, #arrowRight{
+		position: fixed;
+		z-index: 99;
+		cursor: pointer;
+		top:50%;
+		transform: translateY(-50%);
+	}
+
+	#arrowRight img, #arrowLeft img{
+		height: 25px;
+	}
+
+	#arrowLeft{
+		left: 5px;
+		transform: rotate(90deg);
+	}
+
+	#arrowRight{
+		right:5px;
+		transform: rotate(-90deg);
+	}
+
+}
+
+
 
 .short-content{
 	margin-top: 30px;
@@ -425,6 +453,10 @@ blockquote cite:before {
 	font-family: Lora, sans-serif;
 }
 
+.white{
+	background: white;
+}
+
 /* mobile edits  */
 @media screen and (max-width: 760px){
 	.mainTitle{
@@ -510,7 +542,16 @@ blockquote cite:before {
 	#arrowDown{
 		bottom: 30px;
 	}
-	#arrowDown img {height: 20px;}
+	#arrowDown img{height: 20px;}
+
+	#arrowRight img, #arrowLeft img{height: 10px}
+
+	#arrowRight{
+		transform: rotate(-90deg);
+	}
+	#arrowLeft{
+		transform: rotate(90deg);
+	}
 
 	.Horizont {background-color: white;
 		margin-bottom: 35px;}
@@ -537,5 +578,4 @@ blockquote cite:before {
     #mainLogo{
         font-size: 20px;
     }
-
 }

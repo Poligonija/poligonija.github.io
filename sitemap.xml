@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://poligonija.org/kozmonavtika/porocilo/</loc>
+    <lastmod>2019-05-01T14:33:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://poligonija.org/kozmonavtika/</loc>
+    <lastmod>2019-05-01T13:39:47+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://poligonija.org/art_in_tech/</loc>
+    <lastmod>2019-04-30T20:13:46+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://poligonija.org/scifi/porocilo/</loc>
     <lastmod>2019-04-15T18:38:41+02:00</lastmod>
   </url>
@@ -10,6 +25,11 @@
   <url>
     <loc>https://poligonija.org/o-nas/</loc>
     <lastmod>2019-03-26T21:29:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://poligonija.org/scifi/sultana/</loc>
+    <lastmod>2019-03-25T15:08:14+01:00</lastmod>
   </url>
   
   <url>
