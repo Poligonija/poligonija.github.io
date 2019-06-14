@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://poligonija.org/cyberpunk/</loc>
+    <lastmod>2019-06-14T13:36:41+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://poligonija.org/art_in_tech/porocilo/</loc>
+    <lastmod>2019-06-14T11:05:56+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://poligonija.org/kozmonavtika/porocilo/</loc>
     <lastmod>2019-05-01T14:33:46+02:00</lastmod>
   </url>
@@ -23,13 +33,13 @@
   </url>
   
   <url>
-    <loc>https://poligonija.org/o-nas/</loc>
-    <lastmod>2019-03-26T21:29:39+01:00</lastmod>
+    <loc>https://poligonija.org/scifi/sultana/</loc>
+    <lastmod>2019-04-10T15:08:14+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://poligonija.org/scifi/sultana/</loc>
-    <lastmod>2019-03-25T15:08:14+01:00</lastmod>
+    <loc>https://poligonija.org/o-nas/</loc>
+    <lastmod>2019-03-26T21:29:39+01:00</lastmod>
   </url>
   
   <url>

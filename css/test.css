@@ -457,13 +457,18 @@ blockquote cite:before {
 	background: white;
 }
 
+.greyscale-img {
+	-webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+	filter: grayscale(100%);
+}
+
 /* mobile edits  */
 @media screen and (max-width: 760px){
 	.mainTitle{
 		font-size: 3rem;
 	}
 	#fp-nav.fp-right{
-		right: 2px;
+		right: 2px !important;
 	}
 	.Left-title{
 		margin: 20px 0px 30px 0px;

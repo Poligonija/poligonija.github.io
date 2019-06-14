@@ -104,7 +104,7 @@ html.fp-enabled,
     display: none;
     position: fixed;
     z-index: 100;
-    margin-top: -32px;
+    margin-top: -32px !important;
     top: 50%;
     opacity: 1;
     -webkit-transform: translate3d(0,0,0);

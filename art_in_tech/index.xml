@@ -11,5 +11,14 @@
 	<atom:link href="https://poligonija.org/art_in_tech/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Porocilo</title>
+      <link>https://poligonija.org/art_in_tech/porocilo/</link>
+      <pubDate>Fri, 14 Jun 2019 11:05:56 +0200</pubDate>
+      
+      <guid>https://poligonija.org/art_in_tech/porocilo/</guid>
+      <description>Avtor ilustracije: Tschimy Obenga   Umetnost danes ni najbolj znana po tem, da bi sprožila tehnološki napredek, a prav o tem so v Trubarjevi hiši literature govorili študentje v okviru dogodka »Poligonija: Do Androids Dream of Melting Watches?«. Vpliv umetnosti na znanost in človeka ni pogosto poudarjen in naš pogled na to, kaj je umetnost, se skozi čas tudi spreminja. Brian Boyd, literarni darvinist meni, da se je pred umetnostjo pojavilo imitiranje in igra kot nekakšen prehoden, primitiven začetek.</description>
+    </item>
+    
   </channel>
 </rss>
