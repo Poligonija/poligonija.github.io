@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nisem človek, sem ... on Poligonija</title>
+    <link>https://poligonija.github.io/junij_predavanje/</link>
+    <description>Recent content in Nisem človek, sem ... on Poligonija</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sl-SI</language>
+    <lastBuildDate>Thu, 11 Jul 2019 12:50:31 +0200</lastBuildDate>
+    
+	<atom:link href="https://poligonija.github.io/junij_predavanje/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nastja</title>
+      <link>https://poligonija.github.io/junij_predavanje/nastja/</link>
+      <pubDate>Thu, 11 Jul 2019 16:38:01 +0200</pubDate>
+      
+      <guid>https://poligonija.github.io/junij_predavanje/nastja/</guid>
+      <description>PREFACE//OBJAVA Leta 1994 so se še živeči člani že več kot dvajset let razpadle ikonične skupine The Beatles združili in posneli pesem Free As A Bird. Pesem je nastala na podlagi demo posnetka že pokojnega Johna Lennona iz leta 1977, ki so ga predelali in združili z glasovi in glasbili preostalih treh članov. Tako so sintetizirali njihov »come-back«, hkrati pa s pomočjo tehnologije oživeli Lennona. V pričujočem prispevku bom tako razmišljala o ideji nesmrtnosti in tehnološkega ovekovečenja.</description>
+    </item>
+    
+    <item>
+      <title>Martin</title>
+      <link>https://poligonija.github.io/junij_predavanje/martin/</link>
+      <pubDate>Thu, 11 Jul 2019 16:35:44 +0200</pubDate>
+      
+      <guid>https://poligonija.github.io/junij_predavanje/martin/</guid>
+      <description>Problematika kiborgov, možnost izboljšanja človeškega organizma s pomočjo tehnologije, preči kompleksen sklop filozofskih problemov, predvsem v analitični filozofiji, poznanih pod nazivom telo-duh, ki (v kartezijanskem jeziku) zadevajo odnos med »človeško dušo in telesom« oziroma v jeziku sodobne filozofije med »fizikalnimi in mentalnimi lastnostmi« človeškega organizma. Človek naj bi imel telo, ki ga lahko znanost meri in raziskuje, določa njegove fizikalne lastnosti (ki segajo od dejstva, da ima načeloma štiri okončine, do molekularne strukture DNK ali membranskega potenciala nevronov).</description>
+    </item>
+    
+    <item>
+      <title>kristjan</title>
+      <link>https://poligonija.github.io/junij_predavanje/kristjan/</link>
+      <pubDate>Thu, 11 Jul 2019 13:12:07 +0200</pubDate>
+      
+      <guid>https://poligonija.github.io/junij_predavanje/kristjan/</guid>
+      <description>Ameriški komparativist Steven T Brown v uvodu monografije Cyber Tokyo: Posthuman in Japanese Visual Culture predstavi film japonskega režiserja in avtorja originalne mange Katsuhira Otoma Akira (1988) kot primer postmodernega dela, ki ga je mogoče razumeti le ob aplikaciji rizomatskega branja. Slednje gledalcu/bralcu odpira različne horizonte interpretacije, med katerimi Brown izpostavi sedem ključnih, pri analizi pa se omeji na moč celotne kontinuirane, koherentne zgodbe. V kolikor prevzamemo Brownovo branje Akire kot postmodernega dela in poskušamo posamezne dele zgodbe interpretirati deloma onkraj okvira narativa, lahko naletimo na nove interpretacije.</description>
+    </item>
+    
+  </channel>
+</rss>
